@@ -1,0 +1,15 @@
+GET
+http://localhost:8300/intern-order-service/v1/product/phone07
+
+POST
+http://localhost:8300/intern-order-service/v1/orders
+{"productId": "phone07",
+"qty": 5,
+"unitPrice":124640,
+"userId":"user7"}
+
+PATCH
+http://localhost:8300/intern-order-service/v1/{orderId}
+
+GET
+http://localhost:8100/intern-product-service/v1/phone07/product

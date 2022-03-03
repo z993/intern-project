@@ -1,0 +1,12 @@
+- 동기 응답 결과 포맷 바꾸기
+- 비동기 실행시키기
+- The Twelve-Factor App 6번까지 보기
+- Boris map 위치조정
+
+
+- 이벤트 스토밍 수정 -> ppt 수정
+- heat map 수정
+- Lesson Learned 작성
+- 멘토링 결과서 수정
+- code 공부
+- 기술패턴 더 알아보기

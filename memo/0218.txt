@@ -1,0 +1,23 @@
+새로배운것
+miro 띄워서 보여주는것? or 뒤에 이미지로 첨부
+
+
+스토리라인
+시행착오 해결과정 문제해결역량
+이미지하나랑 했던 일 도식화? notion 
+
+
+package com.lgu.orderservice.internshopnew;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InternshopNewApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(InternshopNewApplication.class, args);
+        System.out.println("Welcome");
+    }
+
+}
